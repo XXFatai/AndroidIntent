@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">发短信测试</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sms">发条短信给你？</string>
+    <string name="startactivity2">开始activity2</string>
+    <string name="activity2">It is\nActivity2</string>
+
+</resources>
